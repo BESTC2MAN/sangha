@@ -1,0 +1,6 @@
+{
+  "name": "IRON CODE",
+  "description": "친구들과 함께하는 운동 습관 관리 및 상호 감시 벌금 시스템 앱",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
